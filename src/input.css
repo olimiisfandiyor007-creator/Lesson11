@@ -2,4 +2,5 @@
 
 @theme {
     --breakpoint-mobile: 510px;
+    --breakpoint-laptop: 1560px;
 }
